@@ -1,0 +1,19 @@
+{
+  "name": "cypress-approach-04",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andres-uzeda",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "cypress-recurse": "^1.33.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1",
+    "npx": "^10.2.2"
+  }
+}

@@ -2,7 +2,7 @@
 It is a UI test framework that use JavaScript, and Cypress.
 
 How to run
-npx cypress run --config-file test.config.js --spec "cypress/e2e/loginUserTest.cy.js"
+npx cypress run --config-file test.config.js --spec "cypress/e2e/specs/loginUserTest.js"
 
 npx cypress open
 
